@@ -1,0 +1,46 @@
+{
+  "input": {
+    "bins": 1,
+    "var": "disp"
+  },
+  "output": {
+    "hist": {
+      "src": "[image data sha1: b80abcdba12938bd96c644788970c8154fb0d8d1]",
+      "width": 962,
+      "height": 400,
+      "alt": "Plot object",
+      "coordmap": {
+        "panels": [
+          {
+            "domain": {
+              "left": -20,
+              "right": 520,
+              "bottom": -1.28,
+              "top": 33.28
+            },
+            "range": {
+              "left": 78.72,
+              "right": 921.68,
+              "bottom": 301.08,
+              "top": 77.72
+            },
+            "log": {
+              "x": null,
+              "y": null
+            },
+            "mapping": {
+
+            }
+          }
+        ],
+        "dims": {
+          "width": 962,
+          "height": 400
+        }
+      }
+    }
+  },
+  "export": {
+
+  }
+}
